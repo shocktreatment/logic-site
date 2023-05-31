@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/logic-site/static/css/main.79f559ff.css",
+    "main.js": "/logic-site/static/js/main.997d90bf.js",
+    "index.html": "/logic-site/index.html",
+    "main.79f559ff.css.map": "/logic-site/static/css/main.79f559ff.css.map",
+    "main.997d90bf.js.map": "/logic-site/static/js/main.997d90bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f559ff.css",
+    "static/js/main.997d90bf.js"
+  ]
+}
